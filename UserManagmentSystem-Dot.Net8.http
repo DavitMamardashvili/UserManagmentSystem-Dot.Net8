@@ -1,0 +1,6 @@
+@UserManagmentSystem_Dot.Net8_HostAddress = http://localhost:5272
+
+GET {{UserManagmentSystem_Dot.Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
